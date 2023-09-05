@@ -1,0 +1,158 @@
+/*!
+ * cookie
+ * Copyright(c) 2012-2014 Roman Shtylman
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * use-sync-external-store-shim.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * use-sync-external-store-shim/with-selector.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @remix-run/router v1.7.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router v6.14.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+//!           effect         //
+
+//!           effect        //
+
+//!           render          //
+
+//!           state           //
+
+//!           state         //
+
+//!          component          //
+
+//!          effect          //
+
+//!          function          //
+
+//!          function         //
+
+//!          rebder          //
+
+//!          render          //
+
+//!          state          //
+
+//!         function        //
+
+//!         render        //
+
+//!         state          //
+
+//!     effect    //
+
+//!     render    //
+
+//! STATE  //
+
+//! description: 게시물 상세 화면 //
+
+//! effect //
+
+//! render
+
+//! setState 함수는 해당 핸들러 함수가 종료된 후에 상태가 변경된다.
+
+//! state //
+
+//! 검색             - path : '/search/:searchWord' , component : <Search/>
+
+//! 게시글 상세       - path : '/board/detail/:boardNumber' , component : <BoardDetail/>
+
+//! 게시글 수정       - path : '/board/update/:boardNumber' , component : <BoardUpdate/>
+
+//! 게시글 작성       - path : '/board/write' , component : <BoardWrite/>
+
+//! 게시판 리스트 아이템 목데이터
+
+//! 로그인 / 회원가입 - path : '/auth' , component : <Authentication/>
+
+//! 리터럴 타입으로 선언
+
+//! 메인화면          - path '/' , component : <Main/> 
+
+//! 빈문자열일 경우
+
+//! 유저페이지        - path : '/user-page/:userEmail' , component : <UserPage/>
+
+//! 조건을 넣으면 해당하는 값이 자동으로 반환되는데
