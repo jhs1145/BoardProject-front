@@ -1,0 +1,82 @@
+.board-list-item-box{
+    margin-top: 20px;
+    padding : 24px;
+    background-color: white;
+    display: flex;
+}
+.board-list-item-box:hover{
+    cursor: pointer;
+    background-color: #eeeeee;
+}
+.board-list-item-left{
+    flex : 1;
+}
+.board-list-item-writer{
+    display: flex;
+    align-items: center; 
+}
+/* 박스에는 박스사이즈에 이미지컨텐츠를 중앙정렬 시키는 정도의 속성 */
+.board-list-item-profile{
+    width: 36px;
+    height: 36px;
+    display: flex;
+    /* 이 두개가 묶여야 중앙정렬 align이 수직 just가 수평 */
+    align-items: center; 
+    justify-content: center; 
+}
+/* 박스 내부 이미지 자체에 걸리는 속성들 */
+.board-list-item-profile-image{
+    width: 32px;
+    height: 32px;
+    border-radius: 32px;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+}
+.board-list-item-writer-right{
+    margin-left: 8px;
+    font-size: 12px;
+}
+.board-list-item-writer-ninckname{
+    color: rgba(0, 0, 0, 0.7);
+}
+.board-list-item-write-date{
+    color: rgba(0, 0, 0, 0.4);
+    font-weight: 400;
+    line-height: 140%;
+}
+.board-list-item-title{
+    line-height: 140%;
+    margin-top: 16px;
+    color: black;
+    font-size: 16px;
+}
+.board-list-item-content{
+    line-height: 140%;
+    margin-top: 5px;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 12px;
+    font-weight: 400;
+}
+.board-list-item-count{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.7);
+    margin-top: 16px;
+    font-weight: 400;
+}
+
+.board-list-item-right{
+    align-items: center; 
+    display: flex;
+    margin-left: 30px;
+}
+.board-list-item-board-image{
+    width: 152px;
+    height: 152px;
+    border-radius: 10px;    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+}
+.board-list-item-content{
+    color: rgba(0, 0, 0, 0.7);
+}

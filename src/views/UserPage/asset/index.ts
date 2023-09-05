@@ -1,0 +1,1 @@
+import my_page_profile_default from './my_page_profile_default.png'

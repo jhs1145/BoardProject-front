@@ -1,0 +1,72 @@
+#footer{
+    padding: 40px 8.333333vw 50px;
+    background-color: #373737;
+    color: #ffffff;
+}
+.footer-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-top-left{
+    display: flex;
+    align-items: center;
+}
+.footer-logo-icon{
+    height: 24px;
+    width: 24px;
+    margin-right: 10px;
+    background-image: url(asset/edit_fill.png);    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+}
+.footer-logo-text{
+    font-size: 20px;
+    letter-spacing: -0.4px;
+    font-family: 'GimhaeGaya';
+}
+
+.footer-top-right{
+    display: flex;
+    align-items: center;
+}
+.footer-email{
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Inter';
+}
+.footer-icon-button{
+    margin-left: 20px;
+    height: 24px;
+    width: 24px;
+    border-radius: 5px;
+}
+.footer-icon-button:hover{
+    cursor: pointer;
+}
+.footer-insta-icon{
+    height: 24px;
+    width: 24px;
+    background-image: url(asset/insta.png);    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+     
+}
+.footer-blog-icon{
+    height: 24px;
+    width: 24px;
+    background-image: url(asset/blog.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    
+}
+
+.footer-bottom{
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Inter';
+    margin-top: 20px;
+}
